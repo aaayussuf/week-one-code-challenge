@@ -1,0 +1,3 @@
+[submodule "week-one-code-challenge"]
+	path = week-one-code-challenge
+	url = https://github.com/aaayussuf/week-one-code-challenge.git
